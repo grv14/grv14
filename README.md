@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there 👋, I'm Gaurav
 
-<!--
-**grv14/grv14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐍 Python Learner
+🎯 Aspiring Data Analyst
+🚀 Dream: Work at Google
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning Python from scratch.
+- 🎯 My goal is to become a Data Analyst.
+- 📚 Next, I'll learn SQL, Excel, Power BI and DSA.
+- 💻 Sharing my learning journey on GitHub.
+- 🚀 Building consistency one day at a time.
+
+## 🛣️ Learning Roadmap
+
+✅ Python (Current)
+⬜ SQL
+⬜ Excel
+⬜ Power BI
+⬜ DSA
+⬜ Data Analysis Projects
+
+## 🎯 2026 Goals
+
+- Master Python
+- Learn SQL & Excel
+- Start DSA
+- Build real-world projects
+- Create a strong GitHub portfolio
+- Move one step closer to Google
+
+> "Every expert was once a beginner."
